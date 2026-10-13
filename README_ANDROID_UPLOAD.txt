@@ -1,25 +1,10 @@
-JAWARIYA JEWELLERS — COMPLETE MULTI-PAGE WEBSITE
+JAWARIYA JEWELLERS WEBSITE PACKAGE
 
-Upload ALL these HTML files to the ROOT of your existing GitHub Pages repository (same folder as the current index.html):
-- index.html (Home)
-- categories.html
-- earrings.html
-- necklaces.html
-- customize.html
-- story.html
-- visit.html
-- contact.html
+Upload all files in this folder to the root of your GitHub Pages repository.
+Required: index.html, categories.html, product.html, products.js, customize.html, story.html, visit.html, contact.html.
 
-ANDROID UPLOAD INSTRUCTIONS
-1. Download and open this ZIP using Files / My Files. Extract it into a folder.
-2. Open Chrome and visit: https://github.com/anshv87009-maker/JAWARIYA-jewellers-site
-3. Open the repository and choose Add file → Upload files (you may need the browser menu → Desktop site if the upload option is hidden).
-4. Select all eight .html files from the extracted folder. Upload them to the repository root, not inside another folder.
-5. Commit changes. GitHub Pages will publish the files after a short wait.
-6. Open https://anshv87009-maker.github.io/JAWARIYA-jewellers-site/ and test every menu item.
+Navigation: the menu contains one Categories item with all 13 options. Category page filters products by category; View All Products shows all currently supplied product cards. Selecting a card opens product.html with the image, code, available specifications and WhatsApp enquiry.
 
-IMPORTANT
-- This package does not publish itself; GitHub upload is required.
-- Keep a backup of the old index.html before replacing it.
-- The earrings cards and specifications are extracted from your latest earrings arrangement (54 product cards are present in the supplied file, while its original heading says 63; that original heading was preserved rather than guessing or adding products). The necklace page retains all 44 cards and its existing specifications.
-- The customization form prepares the request for WhatsApp; the visitor may need to attach their reference image manually after WhatsApp opens.
+Product source coverage: the supplied website catalogue contains 54 earrings cards and 44 necklace cards (98 total). The remaining 11 product categories are present in navigation but currently show an honest notice because no verified product data for those categories was supplied. No products, images, codes or weights have been invented.
+
+For each product, specifications are limited to details present in the supplied source HTML. Current price and availability must be confirmed with the shop.

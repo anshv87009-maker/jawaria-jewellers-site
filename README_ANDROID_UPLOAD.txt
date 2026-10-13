@@ -1,4 +1,4 @@
-JAWARIA JEWELLERS — COMPLETE MULTI-PAGE WEBSITE
+JAWARIYA JEWELLERS — COMPLETE MULTI-PAGE WEBSITE
 
 Upload ALL these HTML files to the ROOT of your existing GitHub Pages repository (same folder as the current index.html):
 - index.html (Home)
@@ -12,11 +12,11 @@ Upload ALL these HTML files to the ROOT of your existing GitHub Pages repository
 
 ANDROID UPLOAD INSTRUCTIONS
 1. Download and open this ZIP using Files / My Files. Extract it into a folder.
-2. Open Chrome and visit: https://github.com/anshv87009-maker/jawaria-jewellers-site
+2. Open Chrome and visit: https://github.com/anshv87009-maker/JAWARIYA-jewellers-site
 3. Open the repository and choose Add file → Upload files (you may need the browser menu → Desktop site if the upload option is hidden).
 4. Select all eight .html files from the extracted folder. Upload them to the repository root, not inside another folder.
 5. Commit changes. GitHub Pages will publish the files after a short wait.
-6. Open https://anshv87009-maker.github.io/jawaria-jewellers-site/ and test every menu item.
+6. Open https://anshv87009-maker.github.io/JAWARIYA-jewellers-site/ and test every menu item.
 
 IMPORTANT
 - This package does not publish itself; GitHub upload is required.
